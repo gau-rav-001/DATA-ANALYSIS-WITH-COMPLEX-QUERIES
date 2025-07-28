@@ -54,3 +54,18 @@ Example: Filtering employees earning above their department's average salary by 
 
 *OUTPUT*
 
+1.
+<img width="497" height="254" alt="Image" src="https://github.com/user-attachments/assets/b94c6af7-fccd-4125-933b-4b46cb5dad13" />
+
+2.
+<img width="485" height="249" alt="Image" src="https://github.com/user-attachments/assets/e49ccc78-3009-432b-b4a3-563c9c6b5848" />
+
+3.
+<img width="513" height="213" alt="Image" src="https://github.com/user-attachments/assets/120b8a2c-7933-42dd-8e48-cfb10ccb8839" />
+
+4.
+<img width="502" height="207" alt="Image" src="https://github.com/user-attachments/assets/b8c7d3f1-baaa-4e33-b8b7-4be40efb917d" />
+
+5.
+<img width="362" height="162" alt="Image" src="https://github.com/user-attachments/assets/ccaaf670-737c-4f52-89fe-128a63f08ea0" />
+
